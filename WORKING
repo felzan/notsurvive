@@ -1,3 +1,97 @@
 Editando arquivos base de "https://github.com/brunominervino/forgottenserver"
+W: Working, editando.
+D: Done, pronto. Por enquanto ficará assim.
+R: Remove, remover por completo.
+N: Nothing, nada a ser feito.
+
+
+W:Actions..REVISAR!
+  
+
+R:Chatchannels..
+  Chats removidos, não será necessário escrever/dialogar.
+
+
+W:Creaturscripts..
+  Arrumar itens iniciais.
+  ETC
+
+
+W:Events..REVISAR!
+
+
+D:Globalevents..REVISAR!
+
+
+W:Itens
+  REVISAR!
+
+
+W:Libs
+  REVISAR!
+
+
+N:Logs
+
+
+N:migrations
+
+
+D:Monster..TESTAR"
+  Removidos MOBs desnecessários
+  
+
+W:Movements..
+  Criar armadilhas para animais
+  Remover scripts desnecessários
+
+
+R:NPC
+  Revisar!
+  Não serão necessários NPCs
+
+
+R:Raids
+
+
+R:Reports
+
+
+W:Spells..
+  Spells emitidas pelo player removidas.
+  Revisar
+    Apenas spells emitidas por monstros
+    Recriar! Com efeitos de ataques normais
+
+
+W:Talkactions..
+  REMOVER APÓS TERMINADO!
+
+
+W:Weapons..
+  Revisar!
+  Rods e Wands removidos
+  Armas elementais removidas
+  Munições (distância), apenas poison arrow (veneno de animais peçonhentos).
+  
+
+W:World..
+  Criar ilha posteriormente.
+    Detalhes serão feitos randomicamente via script
+
 
 W:XML..
+  Revisar Commands
+    Esta sem nenhum comando, testar sem o arquivo.
+  Revisar Groups
+    Remover grupo de God após término do projeto.
+  Mounts removidos
+    D:
+  Revisar Outfits
+    Verificar se tem algum looktype para o náufrago.
+  Revisar Quests
+    Recriar as quests, apenas básicas, para não morrer de fome.
+  Revisar Stages
+    Sem stages, sem level UP.
+  Revisar Vocations
+    Apenas uma vocação, 'náufrago'.
